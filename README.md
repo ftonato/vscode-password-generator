@@ -1,6 +1,6 @@
 # Password Generator - Visual Studio Code Extension
 
-<img src="resources/icon-inverted.png" alt="Password Generator Icon" width="150px" />
+<img src="https://github.com/ftonato/vscode-password-generator/blob/main/resources/icon.png" alt="Password Generator Icon" width="150px" />
 
 This extension provide to you options to generate four types of security passwords and allows to copy the generated passwords without having to hit `Control + C`.
 
@@ -10,7 +10,7 @@ At any time, you can press `⌘ + ⇧ + P` on Mac or `Control + ⇧ + P` on Wind
 
 After selecting the one you feel most comfortable with, click the copy button and use your security password generated.
 
-![Password Generator Extension](./preview.gif)
+![Password Generator Extension](https://github.com/ftonato/vscode-password-generator/blob/main/preview.gif)
 
 ## Questions, Feedback, Contributing
 
