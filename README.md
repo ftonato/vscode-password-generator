@@ -20,4 +20,4 @@ You can use this repository to:
 - Search for [existing issues](https://github.com/ftonato/vscode-password-generator/issues) already reported for potential workarounds.
 - [Report a problem](https://github.com/ftonato/vscode-password-generator/issues/new) if you don't find what you are looking for.
 
-See our [CONTRIBUTING](https://github.com/ftonato/vscode-password-generator/CONTRIBUTING.md) guide for more details.
+See our [CONTRIBUTING](https://github.com/ftonato/vscode-password-generator/blob/main/CONTRIBUTING.md) guide for more details.
