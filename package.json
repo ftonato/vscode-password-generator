@@ -2,7 +2,7 @@
   "name": "password-generator",
   "displayName": "password-generator",
   "description": "Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -12,7 +12,7 @@
   "icon": "resources/icon.png",
   "publisher": "ftonato",
   "author": "Ademílson F. Tonato",
-  "homepage": "https://github.com/ftonato/vscode-password-generator.git#readme",
+  "homepage": "https://github.com/ftonato/vscode-password-generator.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/ftonato/vscode-password-generator.git"
