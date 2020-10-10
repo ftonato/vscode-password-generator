@@ -1,6 +1,6 @@
 # Password Generator - Visual Studio Code Extension
 
-<img src="./resources/icon.svg" alt="Password Generator Icon" width="150px" />
+<img src="./resources/icon-inverted.svg" alt="Password Generator Icon" width="150px" />
 
 This extension provide to you options to generate four types of security passwords and allows to copy the generated passwords without having to hit `Control + C`.
 
@@ -20,4 +20,4 @@ You can use this repository to:
 - Search for [existing issues](https://github.com/ftonato/vscode-password-generator/issues) already reported for potential workarounds.
 - [Report a problem](https://github.com/ftonato/vscode-password-generator/issues/new) if you don't find what you are looking for.
 
-See our [CONTRIBUTING](https://github.com/ftonato/vscode-password-generator/CONTRIBUTING.md) guide for more details.
+See our [CONTRIBUTING](https://github.com/ftonato/vscode-password-generator/blob/main/CONTRIBUTING.md) guide for more details.
