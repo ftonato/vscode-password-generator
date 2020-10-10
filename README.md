@@ -1,6 +1,6 @@
 # Password Generator - Visual Studio Code Extension
 
-<img src="./resources/icon-inverted.svg" alt="Password Generator Icon" width="150px" />
+<img src="resources/icon-inverted.png" alt="Password Generator Icon" width="150px" />
 
 This extension provide to you options to generate four types of security passwords and allows to copy the generated passwords without having to hit `Control + C`.
 
