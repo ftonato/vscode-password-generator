@@ -1,8 +1,8 @@
 {
   "name": "password-generator",
-  "displayName": "password-generator",
+  "displayName": "Password Generator",
   "description": "Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.49.0"
   },
