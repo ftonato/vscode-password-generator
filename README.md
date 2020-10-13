@@ -2,7 +2,7 @@
 
 <img src="resources/icon.png" alt="Password Generator Icon" width="150px" />
 
-This extension provide to you options to generate four types of security passwords and allows to copy the generated passwords without having to hit `Control + C`.
+This extension provides you options to generate four types of security passwords and allows you to copy the generated passwords without having to hit `Control + C`.
 
 ## How to use
 
